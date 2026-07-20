@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and Results
+my_genomes/
+ncbi_dataset/
+ncbi_dataset.zip
+annotated_genomes/
+md5sum.txt
